@@ -9,8 +9,9 @@ Um portifólio desenvolvido durante os cursos de "HTML e CSS" da plataforma Alur
 <br><br>
 
 # :hammer: Funcionalidades do projeto
-- `Funcionalidade 1`: Treinar HTML
-- `Funcionalidade 2`: Treinar CSS
+- `Funcionalidade 1`: Usado como treino de HTML
+- `Funcionalidade 2`: Usado como treino de CSS
+- `Funcionalidade 3`: Base para um futuro portfólio próprio
 
 <br><br>
 
