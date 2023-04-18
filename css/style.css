@@ -157,7 +157,13 @@ body {
 
 	.cabecalho_menu {
 		justify-content: center;
+		gap: 7vw;
+	}	
+
+	.cabecalho_menu_link {
+		text-align: center;
 	}
+
 
 	.container {
 		flex-direction: column-reverse;
@@ -166,5 +172,9 @@ body {
 
 	.container_conteudo {
 		width: auto;
+	}	
+
+	.container_conteudo_link {
+		width: 80%;
 	}
 }
